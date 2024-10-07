@@ -22,7 +22,7 @@ useEffect(setup, dependencies?)
 
 ### `useEffect(setup, dependencies?)` {/*useeffect*/}
 
-Call `useEffect` at the top level of your component to declare an Effect:
+अपने कौम्पोनॅन्ट के शीर्ष स्तर पर `useEffect` को कॉल करें ताकि एक इफेक्ट घोषित किया जा सके:
 
 ```js
 import { useEffect } from 'react';
