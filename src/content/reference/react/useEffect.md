@@ -4,7 +4,9 @@ title: useEffect
 
 <Intro>
 
-`useEffect` is a React Hook that lets you [synchronize a component with an external system.](/learn/synchronizing-with-effects)
+
+
+`useEffect` एक React Hook है जो आपको किसी बाहरी सिस्टम के साथ एक कौम्पोनॅन्ट को समकालिक करने देता है। [प्रभावों के साथ समकालिकता सीखें](https://learn/synchronizing-with-effects)
 
 ```js
 useEffect(setup, dependencies?)
